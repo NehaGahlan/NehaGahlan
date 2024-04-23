@@ -14,19 +14,13 @@
 Feel free to reach out to me on:
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/RG-red?style=for-the-badge&logo=RG&logoColor=white" alt="RG Badge"/>
-  <img src="https://img.shields.io/badge/GS-blue?style=for-the-badge&logo=GS&logoColor=white" alt="GS Badge"/>
-</div>
-
-<div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.researchgate.net/profile/Neha-Gahlan">
-    <img src="https://img.shields.io/badge/RG-red?style=for-the-badge&logo=RG&logoColor=white" alt="RG Badge"/>
+    <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/5e936fd7-af92-4949-9d1e-0da8a002e915" alt="RG Badge"/>
   </a>
   <a href="https://scholar.google.com/citations?user=oaiWFEEAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/GS-blue?style=for-the-badge&logo=GS&logoColor=white" alt="GSBadge"/>
+    <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/b094c9fa-3ea3-472b-bf48-ff53ad0ffcf1" alt="GSBadge"/>
   </a>
 </div>
