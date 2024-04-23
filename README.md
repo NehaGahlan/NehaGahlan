@@ -24,3 +24,20 @@ Feel free to reach out to me on:
     <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/b094c9fa-3ea3-472b-bf48-ff53ad0ffcf1" alt="GSBadge" width="100" height="40">
   </a>
 </div>
+---------------------
+## Tech stack I work with 👇
+
+###Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+### ML/DL stack
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-multiflow](https://img.shields.io/badge/scikit_multiflow-3776AB?style=flat&logo=scikit-multiflow&logoColor=white)
+
