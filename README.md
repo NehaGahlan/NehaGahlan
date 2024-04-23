@@ -15,7 +15,7 @@ Feel free to reach out to me on:
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="30" height="30">
   </a>
   <a href="https://www.researchgate.net/profile/Neha-Gahlan">
     <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/5e936fd7-af92-4949-9d1e-0da8a002e915" alt="RG Badge"/>
