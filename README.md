@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# officialneha
+### Hi there!
 --------------------
 + 🧑🏻‍🎓 Ph.D. (pursuing) in Artifical Intelligence at Delhi Technological University, New Delhi, India.
 + 🌱 I’m currently working on emotion classification from physiological data (EEG, ECG, GSR, etc.) via developing a Federated Learning-based application for the same.
