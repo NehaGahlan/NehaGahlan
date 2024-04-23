@@ -8,9 +8,11 @@
 + 📫 How to reach me: Email: gahlanneha@gmail.com
 + 😄 Pronouns: Neha
 + ⚡ Fun fact: 1.0
-+ 
-<div id="badges">
-<a href="https://www.linkedin.com/in/neha-gahlan-064118152/" target="" title="" >
-    <img src="https://github.com/NehaGahlan/official/assets/42992015/967a65d8-d503-4214-b7ae-5deb656cb993" alt="LinkedIn" width="70" height="70">
-</a>
-</div>
+
+## Contact
+
+Feel free to reach out to me on:
+
+* [:linkedIn:](https://www.linkedin.com/help/linkedin/answer/a522735)
+* [:books:](https://scholar.google.com/intl/en/scholar/citations.html)
+
