@@ -9,6 +9,6 @@
 + 😄 Pronouns: Neha
 + ⚡ Fun fact: 1.0
 
-<a href="https://www.linkedin.com/in/neha-gahlan-064118152/" target="" title="" style="margin-right: 10px;" >
+<a href="https://www.linkedin.com/in/neha-gahlan-064118152/" target="" title="" >
     <img src="https://github.com/NehaGahlan/official/assets/42992015/967a65d8-d503-4214-b7ae-5deb656cb993" alt="LinkedIn" width="70" height="70">
 </a>
