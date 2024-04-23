@@ -28,7 +28,7 @@ Feel free to reach out to me on:
 
 ## Tech stack I work with 👇
 
-###Languages
+Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
@@ -39,6 +39,7 @@ Feel free to reach out to me on:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-multiflow](https://img.shields.io/badge/scikit_multiflow-3776AB?style=flat&logo=scikit-multiflow&logoColor=white)
+![eeglab](https://img.shields.io/badge/scikit_multiflow-3776AB?style=flat&logo=scikit-multiflow&logoColor=white)
 
