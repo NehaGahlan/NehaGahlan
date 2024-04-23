@@ -13,11 +13,20 @@
 
 Feel free to reach out to me on:
 
-* [:linkedIn:](https://www.linkedin.com/help/linkedin/answer/a522735)
-* [:books:](https://scholar.google.com/intl/en/scholar/citations.html)
-
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/RG-red?style=for-the-badge&logo=RG&logoColor=white" alt="RG Badge"/>
+  <img src="https://img.shields.io/badge/GS-blue?style=for-the-badge&logo=GS&logoColor=white" alt="GS Badge"/>
+</div>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Neha-Gahlan">
+    <img src="https://img.shields.io/badge/RG-red?style=for-the-badge&logo=RG&logoColor=white" alt="RG Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=oaiWFEEAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/GS-blue?style=for-the-badge&logo=GS&logoColor=white" alt="GSBadge"/>
+  </a>
 </div>
