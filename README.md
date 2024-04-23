@@ -15,12 +15,12 @@ Feel free to reach out to me on:
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="30" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80" height="80">
   </a>
   <a href="https://www.researchgate.net/profile/Neha-Gahlan">
-    <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/5e936fd7-af92-4949-9d1e-0da8a002e915" alt="RG Badge"/>
+    <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/5e936fd7-af92-4949-9d1e-0da8a002e915" alt="RG Badge"width="80" height="80">
   </a>
   <a href="https://scholar.google.com/citations?user=oaiWFEEAAAAJ&hl=en&oi=ao">
-    <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/b094c9fa-3ea3-472b-bf48-ff53ad0ffcf1" alt="GSBadge"/>
+    <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/b094c9fa-3ea3-472b-bf48-ff53ad0ffcf1" alt="GSBadge" width="80" height="80">
   </a>
 </div>
