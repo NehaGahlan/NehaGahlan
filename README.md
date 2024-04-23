@@ -24,7 +24,8 @@ Feel free to reach out to me on:
     <img src="https://github.com/NehaGahlan/NehaGahlan/assets/42992015/b094c9fa-3ea3-472b-bf48-ff53ad0ffcf1" alt="GSBadge" width="100" height="40">
   </a>
 </div>
----------------------
+
+
 ## Tech stack I work with 👇
 
 ###Languages
