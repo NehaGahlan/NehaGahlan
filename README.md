@@ -6,7 +6,7 @@
 + 💬 Ask me about: Signal Processing | Federated Learning | Human Affective Computing | Emotion Recognition
 + 👯 I’m looking to collaborate on Federated learning and its application in emotion recognition
 + 📫 How to reach me: Email: gahlanneha@gmail.com
-+ - 😄 Pronouns: Neha
++ 😄 Pronouns: Neha
 - ⚡ Fun fact: 1.0
 
 
